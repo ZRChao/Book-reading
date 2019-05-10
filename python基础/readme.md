@@ -26,3 +26,10 @@
 ② 利用https://nbviewer.jupyter.org/ 可以快速加载ipynb文件 : 
 
   - https://github.com/url 改成 https://nbviewer.jupyter.org/github/url
+  
+  
+## 参考
+
+https://github.com/jackfrued/Python-100-Days
+
+https://blog.csdn.net/datawhale/article/category/7779959?orderby=UpdateTime
