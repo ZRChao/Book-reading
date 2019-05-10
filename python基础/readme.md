@@ -7,7 +7,7 @@
 
 ② 在<本打卡群>接龙打卡
 
-**作业地址** https://github.com/datawhalechina/Python/tree/master/学习任务
+**作业地址** https://github.com/datawhalechina/Python
 
 注：编号按Task1的打卡顺序先打先得，打完卡请修改自己的群昵称：编号 - 昵称！
 
@@ -24,4 +24,5 @@
 ① 下载到本地 jupyter notebook 1.ipynb
 
 ② 利用https://nbviewer.jupyter.org/ 可以快速加载ipynb文件 : 
+
   - https://github.com/url 改成 https://nbviewer.jupyter.org/github/url
