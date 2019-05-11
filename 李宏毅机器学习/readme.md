@@ -6,3 +6,5 @@ GitHub  https://github.com/datawhalechina/NTU-Machine-learning
 
 视频 https://www.bilibili.com/video/av10590361?from=search&seid=2528333740967753954
 
+课件 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
+
