@@ -8,6 +8,8 @@ GitHub https://github.com/datawhalechina/NTU-Machine-learning
 
 课件 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
 
+参考 https://datawhalechina.github.io/Leeml-Book/#/
+
 打卡
 
 1. 5.13 https://shimo.im/docs/AwXoao2nWksieo1j/read
