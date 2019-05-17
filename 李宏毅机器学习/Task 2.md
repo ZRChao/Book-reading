@@ -26,16 +26,16 @@
  - 方差刻画了算法本身的复杂度，参数越多其可变性越高曲线越光滑，方差越大学习过度traindata本身的信息**overfitting**，增加数据样本量或是进行特征选择 **正则化**。
 
 **公式证明**[参考南瓜书]() 
-![](bias-variance.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/bias-variance.png)
 
 
-![](bias-variance2.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/bias-variance2.png)
 
  - 权衡偏差-方差，可以通过将train data切割一部分出来作为验证集validation， 首先通过traindata进行训练，然后通过验证集进行测试，确定模型，最后在用到测试数据中。如何切割，一种方式是hold out即只切割一部分出来，另外一种更普世的是**交叉验证 cross validation** (参见西瓜书)。
 **需要说明的是，在kaggle类似的比赛中，往往由public的测试数据，我们可以通过上面的步骤训练好模型，然后预测public测试数据并计算误差，这也是我们比赛期间排名的依据，但是并不推荐用此测试数据来反过来修改我们的模型，因为最终排名还有一个private数据，很有可能你的模型在public中不是最优的，但是因为其一般性可以在private中达到最好。为此只需要对训练数据进行有效切割后训练模型，选择好模型后再用所有的测试数据拟合参数即可。**
 
 [数学证明](参考西瓜书第二章如下) 
-![](bias-variance3.png) 
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/bias-variance3.png) 
 
 ## 梯度下降
 
@@ -48,7 +48,7 @@
 
 - 另外，当梯度变化很小时，算法也会停止更新，此时并未达到极值。可以看到初始值与梯度大小依赖于目标函数本身的性质，很难进行有效的选择与调节。如下图
 
-![](GD2.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/GD2.png)
 
 - 最后，对于一般的存在最优解的函数，学习速率成为调节的关键。当步长太短时，迭代收敛速度极慢；而当步长太长，则会导致跳过最优解。
     - 简单思想，开始步长长，后面不断减小
@@ -58,7 +58,7 @@
 
 $$w^{t+1} = w^t \frac{\eta}{\sqrt{\sum_{i=0}^t(g^i)^2}} g^t$$
 
-![](GD3.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/GD3.png)
 
 **没理解举得二次函数的例子解释，采用一阶微分除以二阶微分作为更新部分？**
 
@@ -72,15 +72,15 @@ $$w^{t+1} = w^t \frac{\eta}{\sqrt{\sum_{i=0}^t(g^i)^2}} g^t$$
 
 对不同的feature进行标准化，使得在不同参数的更新上朝着同一个方向趋于最优解。
 
-![](GD4.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/GD4.png)
 
 ### 理论支持
 
 在某一步参数更新时，目标函数在该处进行二阶泰勒展开，此时下一步最优化转化为找到对应的圆内的某点使得其与变化方向上的乘机最小。
 
-![](GD5.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/GD5.png)
 
-![](GD6.png)
+![](https://github.com/ZRChao/Book-reading/blob/master/李宏毅机器学习/figures/GD6.png)
 
 
 
