@@ -14,4 +14,6 @@ GitHub https://github.com/datawhalechina/NTU-Machine-learning
 
 1. 5.13 https://shimo.im/docs/AwXoao2nWksieo1j/read
 2. 5.17 https://shimo.im/docs/LrtvE7bsyewCWB14/read
-3. 
+3. 5.22 https://shimo.im/docs/KswfvV54CzwBFcFC/read
+4. 5.
+
