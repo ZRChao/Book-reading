@@ -10,6 +10,9 @@ GitHub https://github.com/datawhalechina/NTU-Machine-learning
 
 参考 https://datawhalechina.github.io/Leeml-Book/#/
 
+打卡地址 https://docs.qq.com/sheet/DRU54aFRwQ29ZS2RD?opendocxfrom=admin&id=DRU54aFRwQ29ZS2RD&coord=D59%24D59%240%240%240%240&tab=BB08J2
+
+
 打卡
 
 1. 5.13 https://shimo.im/docs/AwXoao2nWksieo1j/read
