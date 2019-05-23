@@ -19,4 +19,4 @@ Week1. 5.9 -5.16 22:00 https://shimo.im/docs/sdVA2B79eU8VD3J2
 
 Week2. 5.16-5.23 22:00 https://shimo.im/docs/NhZvM15V3BEzRWUW
 
-
+Week3. 5.23-5.30 22:00 https://shimo.im/docs/cRObVoqcyI85iz80
