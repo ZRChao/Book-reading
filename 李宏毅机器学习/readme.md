@@ -8,9 +8,12 @@ GitHub https://github.com/datawhalechina/NTU-Machine-learning
 
 课件 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
 
-参考 https://datawhalechina.github.io/Leeml-Book/#/
+参考 https://datawhalechina.github.io/Leeml-Book/#/  https://www.cnblogs.com/HL-space/  
+
+https://datawhalechina.github.io/Leeml-Book/
 
 打卡地址 https://docs.qq.com/sheet/DRU54aFRwQ29ZS2RD?opendocxfrom=admin&id=DRU54aFRwQ29ZS2RD&coord=D59%24D59%240%240%240%240&tab=BB08J2
+
 
 
 打卡
@@ -19,4 +22,6 @@ GitHub https://github.com/datawhalechina/NTU-Machine-learning
 2. 5.17 https://shimo.im/docs/LrtvE7bsyewCWB14/read
 3. 5.22 https://shimo.im/docs/KswfvV54CzwBFcFC/read
 4. 5.25 https://shimo.im/docs/dewFJi6mB48KAiPy/read
+5. 5.29 https://shimo.im/docs/oQVUplqyJBEKFoIF/read
+6. 
 
