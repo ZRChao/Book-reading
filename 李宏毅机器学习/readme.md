@@ -23,5 +23,6 @@ https://datawhalechina.github.io/Leeml-Book/
 3. 5.22 https://shimo.im/docs/KswfvV54CzwBFcFC/read
 4. 5.25 https://shimo.im/docs/dewFJi6mB48KAiPy/read
 5. 5.29 https://shimo.im/docs/oQVUplqyJBEKFoIF/read
-6. 
+6. 6.02 https://shimo.im/docs/pAtV7IwVetMhqdJh/read
+7. 
 
