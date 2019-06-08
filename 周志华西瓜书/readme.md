@@ -25,4 +25,6 @@ Week3. 5.23-5.30 22:00 https://shimo.im/docs/cRObVoqcyI85iz80
 
 Week4. 5.30-6.06 22:00 https://shimo.im/docs/OIsBagz7NncLNVSx
 
-Week5. 
+Week5. 6.06-6.13 22:00 https://shimo.im/docs/he8gCdhmeK0a4y5Y
+
+Week6. 
